@@ -9,3 +9,5 @@ Now changing
 After cached command, checking
 
 ChangeNew
+
+This is a new file
